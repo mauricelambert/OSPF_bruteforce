@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository performs a dictionnary attacks against OSPF MD5 authentication using scapy. 
+This repository performs a dictionnary attack against OSPF MD5 authentication using scapy. 
 
 ## Requirements
 
