@@ -50,7 +50,7 @@ __all__ = []
 
 print(copyright)
 
-from ospf_scapy import *
+from scapy_ospf import *
 from hashlib import md5
 from sys import argv, stderr, executable, exit
 
